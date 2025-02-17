@@ -1,0 +1,8 @@
+question,stimulus,answer1,answer2,answer3,answer4
+You're 4th place right now in a race, What place will you be in when you pass the person in 3rd place?,3rd,1st,2nd,none of the above
+What colour is the the hardest to find in animals?,There is a famous butterfly in this colour.,blue,green,purple,yellow 
+What country has the most pyramids?,It is not the obvious one,sudan,egypt,peru,mexico
+What is the smallest mammal is the world?,they are type of bat -nicknamed Kitti's hog-nosed bat.,bumblebee bat,little brown bat,whiskered bat,ghost-faced bat
+What colour was the first orange?,They have evolved.,green,yellow,pink,brown
+Who was the American flag designed by?,:),high school student,builder,chef,street artist
+What is the symbol "#" official name?,It is not the obvious one.,octothorpe,obelus,hashtag,Asterism
